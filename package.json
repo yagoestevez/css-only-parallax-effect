@@ -1,0 +1,9 @@
+{
+  "name": "css-only-parallax-effect",
+  "version": "1.0.0",
+  "description": "Simple Parallax Effect made only with CSS",
+  "main": "index.html",
+  "keywords": ["css", "parallax", "nojs"],
+  "author": "Yago Estévez",
+  "license": "ISC"
+}
